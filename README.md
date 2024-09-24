@@ -1,2 +1,2 @@
-# lifelog
-Diary App
+# lifelog: Diary App
+<br/>It should be integrated with clear note application.
